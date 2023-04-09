@@ -1,0 +1,32 @@
+{
+  "select_smp": {
+    "source": "Buku Sekolah Elektronik (BSE)",
+    "sourceText": "BSE",
+    "verif": true,
+    "list": [
+      {
+        "title": "Matematika | SMP/MTs Kelas VIII - Semester 1 - Kurikulum 2013 - Edisi revisi 2017",
+        "summary": "Matematika adalah bahasa universal dan karenanya kemampuan matematika siswa suatu negara sangat mudah dibandingkan dengan negara lain. Selain itu, matematika juga dipakai sebagai alat ukur untuk menentukan kemajuan pendidikan di suatu negara. Kita mengenal PISA (Program for International Student Assessment) dan TIMSS (The International Mathematics and Science Survey) yang secara berkala mengukur dan membandingkan antara lain kemajuan pendidikan matematika di beberapa negara.\n\nStandar internasional semacam ini memberikan arahan dalam merumuskan pembelajaran matematika di SMP/MTs. Hasil pembandingan antara yang kita ajarkan selama ini dengan yang dinilai secara internasional menunjukkan adanya perbedaan, baik terkait materi maupun kompetensi. Perbedaaan ini menjadi dasar dalam merumuskan pembelajaran matematika dalam Kurikulum 2013 yang disempurnakan.",
+        "information": {
+          "date": "2017 Jan",
+          "length_page": 281,
+          "writers": [
+            "Abdur Rahman As'ari, Dr, H, M.Pd, M.A",
+            "Mohammad Tohir, S.Pd",
+            "Erik Valentino, S.Pd., M.Pd.",
+            "Zainul Imron, S.Pd.",
+            "Ibnu Taufiq, S.Pd, M.Pd."
+          ],
+          "editor": [
+            "Yogi Anggraena",
+            "S.Si",
+            "M.Si"
+          ],
+          "isbn": "9786022829843"
+        },
+        "_id": "8e9990de1248a16a64f8",
+        "read": "https://epaper.myedisi.com/bse/43667/docs/Kelas-08-Revisi-2017-SMP-Matematika-S1-43667.pdf"
+      }
+    ]
+  }
+}
